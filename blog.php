@@ -25,26 +25,26 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0"> 
               <li class="nav-item">
-                <a class="nav-link active navlink ps-4 fw-bold" aria-current="page" href="C:\Users\user\Desktop\FIJORAN TRAVELS\Home.html">HOME</a>
+                <a class="nav-link active navlink ps-4 fw-bold" aria-current="page" href="Home.html">HOME</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link navlink ps-4 fw-bold" href="C:\Users\user\Desktop\FIJORAN TRAVELS\about-us.html">ABOUT</a>
+                <a class="nav-link navlink ps-4 fw-bold" href="about-us.html">ABOUT</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link navlink ps-4 fw-bold" href="C:\Users\user\Desktop\FIJORAN TRAVELS\services.html">SERVICES</a>
+                <a class="nav-link navlink ps-4 fw-bold" href="services.html">SERVICES</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link navlink ps-4 fw-bold" href="C:\Users\user\Desktop\FIJORAN TRAVELS\services.html">BLOG</a>
+                <a class="nav-link navlink ps-4 fw-bold" href="services.html">BLOG</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link navlink ps-4 fw-bold" href="C:\Users\user\Desktop\FIJORAN TRAVELS\contact.html">CONTACT</a>
+                <a class="nav-link navlink ps-4 fw-bold" href="contact.html">CONTACT</a>
               </li>
             </ul>
       
             <!-- Sign Up and Contact Links -->
             <div class="d-flex align-items-center pt-4 pe-5 informationcont">
               <p class="pe-3 pb-4 mb-0 ms-4">
-                <a href="C:\Users\user\Desktop\FIJORAN TRAVELS\book-a-trip.html" class="btn btn-primary signup">BOOK A TRIP</a>
+                <a href="book-a-trip.html" class="btn btn-primary signup">BOOK A TRIP</a>
               </p>
             </div>
           </div>
@@ -133,11 +133,11 @@
       <footer class="text-center">
         <img src="IMAGES/logo-removebg-preview.png" alt="logo" style="height: 50px;" class="mt-3">
         <nav class="footer-nav mt-3">
-          <span><a href="C:\Users\user\Desktop\FIJORAN TRAVELS\Home.html">HOME</a></span>
-          <span><a href="C:\Users\user\Desktop\FIJORAN TRAVELS\about-us.html">ABOUT</a></span>
-          <span><a href="C:\Users\user\Desktop\FIJORAN TRAVELS\services.html">SERVICES</a></span>
-          <span><a href="C:\Users\user\Desktop\FIJORAN TRAVELS\blog.html">BLOG</a></span>
-          <span><a href="C:\Users\user\Desktop\FIJORAN TRAVELS\contact.html">CONTACT</a></span>
+          <span><a href="Home.html">HOME</a></span>
+          <span><a href="about-us.html">ABOUT</a></span>
+          <span><a href="services.html">SERVICES</a></span>
+          <span><a href="blog.html">BLOG</a></span>
+          <span><a href="contact.html">CONTACT</a></span>
        </nav>
          <hr>
          <span class="text-light">@ Fijoran Travel Nig Ltd 2025. All Right Reserved.</span>
